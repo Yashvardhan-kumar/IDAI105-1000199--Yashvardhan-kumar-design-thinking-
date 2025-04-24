@@ -115,3 +115,13 @@ Citations
     Medium – Design Bootcamp Gamified UX Case Study: https://medium.com/design-bootcamp/ui-ux-case-study-designing-a-gamified-app-to-help-users-manage-screen-time-f384bc467ceb
 
     The Design Team – Social Media Detox Principles: https://thedesignteam.io/social-media-detox-8e78088e3c79
+
+
+    Made by: Yashvardhan Kumar, IBCP-XI (WACP ID - 1000199)
+CRS: Artificial Intelligence
+Course: Data Mining
+School: Birla Open Minds International School, Kollur
+
+Summative Assessment 5
+
+
